@@ -24,6 +24,8 @@ Fun fact: "Fun fact: In Bug Bounty hunting, you can test a web application for d
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Give%20a%20man%20a%20zero-day%20and%20he%E2%80%99ll%20own%20a%20system%20for%20a%20day.%20Teach%20a%20man%20to%20reverse%20engineer%20and%20he%E2%80%99ll%20own%20systems%20for%20a%20lifetime.&author=Sanju%20Sardar)
 
+![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SanjuSec&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
