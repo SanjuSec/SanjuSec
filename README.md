@@ -1,4 +1,7 @@
+<img width="1536" height="1024" alt="hunting" src="https://github.com/user-attachments/assets/7587445a-1bf0-453f-a345-174a2d2865a7" />
+
 ## Hi there 👋
+
 Sanju Sardar
 
 I'm a cybersecurity aspirant focused on Web Penetration Testing, Bug Bounty, and Red Teaming. I'm looking to collaborate on CTFs, joint security research, or hands-on hacking projects to share insights and build practical offensive skills together.
